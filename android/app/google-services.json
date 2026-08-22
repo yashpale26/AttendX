@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102660148315",
+    "project_id": "attendx-794be",
+    "storage_bucket": "attendx-794be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102660148315:android:cce0cf092b5fba6e7c837e",
+        "android_client_info": {
+          "package_name": "com.example.attendx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Be1HExjpVCG0JMiddiOBnnR1Q-g1CWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
